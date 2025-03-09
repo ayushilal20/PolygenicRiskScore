@@ -25,7 +25,7 @@ The following tools are required for this project:
   - Kinh Vietnamese (KHV)
   - Japanese (JPT)
   - Dai Chinese (CDX)
-  - 
+
 ## Workflow
 
 ### 1. Data Exploration
